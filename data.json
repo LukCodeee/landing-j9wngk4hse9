@@ -1,0 +1,376 @@
+{
+  "root": {
+    "props": {
+      "title": "test"
+    }
+  },
+  "zones": {},
+  "content": [
+    {
+      "type": "Hero1",
+      "props": {
+        "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
+        "title": "Unlock Growth with Smart Marketing",
+        "tagline": "FOR SOLOPRENEURS",
+        "description": "Discover the ultimate marketing resource hub designed exclusively for solopreneurs—gain expert strategies, actionable tools, and proven tactics to attract customers, increase sales, and build your brand confidently without hiring a team.",
+        "highlightedWord": "Growth",
+        "primaryButtonDetails": {
+          "primaryButtonLink": "#get-access",
+          "primaryButtonText": "Get Instant Access"
+        },
+        "secondaryButtonDetails": {
+          "secondaryButtonLink": "#learn-more",
+          "secondaryButtonText": "Learn More",
+          "showSecondaryButton": false
+        }
+      }
+    },
+    {
+      "type": "ProblemBlock1",
+      "props": {
+        "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
+        "highlightedWord": "Creation",
+        "comparisonHeadline": "Smart Video Creation vs Time-Consuming Edits",
+        "visualBuilderDetails": {
+          "visualBuilderTitle": "Create with VidBot",
+          "visualBuilderAdvantages": [
+            {
+              "advantageIcon": "ClipboardList",
+              "advantageTitle": "Instant Social-Ready Videos",
+              "advantageDescription": "Generate high-impact, platform-optimized videos in minutes using AI-driven templates tailored for Instagram, TikTok, Facebook, and more."
+            },
+            {
+              "advantageIcon": "Timer",
+              "advantageTitle": "Effortless Automation",
+              "advantageDescription": "Automate video editing and content personalization with smart tools that save you hours and keep your feed fresh daily."
+            },
+            {
+              "advantageIcon": "DollarSign",
+              "advantageTitle": "Maximize Engagement & Reach",
+              "advantageDescription": "Boost your social presence with videos designed to captivate your audience, increase shares, and drive conversions faster than traditional methods."
+            }
+          ]
+        },
+        "comparisonSubheadline": "See how VidBot revolutionizes social media content with fast, AI-powered video creation tailored to your brand",
+        "traditionalDevDetails": {
+          "traditionalDevTitle": "Manual Video Production Challenges",
+          "traditionalDevDrawbacks": [
+            {
+              "drawbackText": "Long, tedious editing workflows"
+            },
+            {
+              "drawbackText": "High costs for professional editors"
+            },
+            {
+              "drawbackText": "Inconsistent branding across videos"
+            },
+            {
+              "drawbackText": "Difficulty producing content at scale"
+            },
+            {
+              "drawbackText": "Slow turnaround kills momentum"
+            },
+            {
+              "drawbackText": "Limited adaptability to social trends"
+            }
+          ]
+        },
+        "callToActionButtonLink": "#get-started",
+        "callToActionButtonText": "Start Creating Videos Now",
+        "closingCallToActionText": "Join thousands transforming their social media with VidBot’s AI-powered video generator tool"
+      }
+    },
+    {
+      "type": "Solution1",
+      "props": {
+        "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
+        "ctaButton": {
+          "buttonLink": "#get-started",
+          "buttonText": "Unlock Your Marketing Toolbox",
+          "showButton": true
+        },
+        "headerContent": {
+          "mainTitle": "Marketing Made Simple",
+          "description": "Discover tailored marketing tools and resources curated exclusively for solopreneurs. Empower your brand with expert strategies, actionable insights, and easy-to-use solutions designed to accelerate growth and amplify your impact."
+        },
+        "solutionItems": [
+          {
+            "solutionTitle": "Curated Strategies",
+            "solutionSubTitle": "Proven tactics that work.",
+            "solutionDescription": "Access an expertly crafted collection of marketing plans and templates specifically designed to help solo founders save time and achieve measurable results without overwhelm."
+          },
+          {
+            "solutionTitle": "Step-by-Step Guides",
+            "solutionSubTitle": "Learn at your own pace.",
+            "solutionDescription": "Follow easy-to-understand tutorials that walk you through setting up campaigns, optimizing conversions, and building your brand presence—even if you’re new to marketing."
+          },
+          {
+            "solutionTitle": "All-in-One Hub",
+            "solutionSubTitle": "Tools, tips, and insights combined.",
+            "solutionDescription": "Streamline your marketing efforts with a centralized platform built for solopreneurs, featuring customizable templates, analytics tracking, and community support to fuel your business growth."
+          }
+        ]
+      }
+    },
+    {
+      "type": "SocialProof1",
+      "props": {
+        "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
+        "title": "Trusted by ",
+        "description": "Here's what solopreneurs say about us:",
+        "testimonials": [
+          {
+            "quote": "Using this resource hub transformed my solo business—boosting my marketing results like never before.",
+            "title": "Founder, Momentum Solo",
+            "author": "Jack Sibire",
+            "rating": 5,
+            "avatarId": 4,
+            "highlightedText": "transformed my solo business"
+          },
+          {
+            "quote": "I recommend this site to every solopreneur who wants clear, actionable marketing insights.",
+            "title": "Digital Strategist, FreelanceFlow",
+            "author": "Adele Mouse",
+            "rating": 5,
+            "avatarId": 5,
+            "highlightedText": "recommend this site"
+          },
+          {
+            "quote": "I can’t imagine running my entire marketing without these expert tools and guides.",
+            "title": "Owner, SoloCraft",
+            "author": "Ben Clock",
+            "rating": 5,
+            "avatarId": 6,
+            "highlightedText": "can’t imagine running my entire marketing"
+          }
+        ],
+        "titleHighlightedText": "Over 2,000 solopreneurs"
+      }
+    },
+    {
+      "type": "Features1",
+      "props": {
+        "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
+        "label": "- FEATURE 1",
+        "title": "Marketing tools built for ",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Start Your Growth"
+        },
+        "description": "Access a curated suite of proven marketing resources designed specifically for solopreneurs—streamline your efforts, save time, and grow your brand with expert insights and actionable strategies all in one place.",
+        "titleHighlightedText": "solopreneurs"
+      }
+    },
+    {
+      "type": "Features2",
+      "props": {
+        "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
+        "label": "- FEATURE 2",
+        "title": "Boost productivity the smart",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Explore Now"
+        },
+        "description": "Unlock tailored marketing strategies and proven resources designed exclusively for solopreneurs to automate tasks, maximize efficiency, and grow your business with ease.",
+        "titleHighlightedText": "way"
+      }
+    },
+    {
+      "type": "Pricing1",
+      "props": {
+        "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
+        "plans": [
+          {
+            "cta": "Start with Essential",
+            "name": "Basic",
+            "badge": "",
+            "price": 9,
+            "featured": false,
+            "description": "Perfect for solo founders laying the groundwork",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Power Up with Premium",
+            "name": "Pro",
+            "badge": "Most Popular",
+            "price": 19,
+            "featured": true,
+            "description": "Ideal for solopreneurs ready to scale fast",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Unlock Full Potential",
+            "name": "Business",
+            "badge": "",
+            "price": 99,
+            "featured": false,
+            "description": "Advanced tools for thriving solo businesses",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              }
+            ]
+          }
+        ],
+        "title": "Simple Pricing",
+        "features": [
+          {
+            "value": "Unlimited projects"
+          },
+          {
+            "value": "Priority support"
+          },
+          {
+            "value": "Custom domain integration"
+          },
+          {
+            "value": "Insightful marketing analytics"
+          }
+        ],
+        "description": "Tailored pricing made to empower solopreneurs with powerful marketing resources at every step."
+      }
+    },
+    {
+      "type": "FAQ1",
+      "props": {
+        "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
+        "faqs": [
+          {
+            "answer": "Our platform combines smart marketing tools with expert resources so you can effortlessly plan, launch, and grow your solo business with confidence.",
+            "question": "How does this work?"
+          },
+          {
+            "answer": "Experience quicker marketing wins, expertly crafted templates, and step-by-step guides that save time and empower your growth without overwhelm.",
+            "question": "What are the benefits?"
+          },
+          {
+            "answer": "Not at all. Our user-friendly platform is built for solopreneurs with zero tech headaches or confusing jargon—get started in minutes.",
+            "question": "Is it difficult to use?"
+          },
+          {
+            "answer": "Yes! We offer flexible plans tailored to your unique goals so that you only invest in what truly fuels your solo success.",
+            "question": "Can I have custom pricing?"
+          },
+          {
+            "answer": "Definitely — jump in risk-free with our 14-day full-access trial, no credit card needed, cancel anytime.",
+            "question": "Is there trial version available?"
+          },
+          {
+            "answer": "Simply click “Join Now” at the top right or explore our plans page to pick the perfect fit for your solo venture.",
+            "question": "Where do I sign up?"
+          }
+        ],
+        "title": "FAQs"
+      }
+    },
+    {
+      "type": "About1",
+      "props": {
+        "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
+        "label": "- MEET THE CREATOR",
+        "outro": "I'm building Luke AI in public and sharing every step of my solopreneur journey. Explore the progress and share your feedback to help shape the future of marketing tools! 🚀",
+        "heading": "Hey, I'm Luke",
+        "subtitle": "Fueling solopreneur success.",
+        "paragraphs": [
+          {
+            "value": "As a solopreneur, I created Luke AI to empower solo business owners with smart, effortless marketing resources that save time and boost conversions."
+          },
+          {
+            "value": "Common questions I hear:"
+          },
+          {
+            "value": "- How can I create standout marketing fast?\n- What tools turn ideas into customers?"
+          },
+          {
+            "value": "My solution: smart design meets AI-driven content tailored for solopreneurs."
+          }
+        ],
+        "principles": [
+          {
+            "title": "No-fuss design",
+            "description": "Drag & drop simplicity so you focus on growth, not tech headaches."
+          },
+          {
+            "title": "AI content that sells",
+            "description": "Generate headlines, copy, and CTAs designed to convert your ideal customers."
+          },
+          {
+            "title": "Launch quickly, grow steadily",
+            "description": "Proven templates crafted to turn visitors into loyal clients in minutes."
+          }
+        ]
+      }
+    },
+    {
+      "type": "CTA1",
+      "props": {
+        "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
+        "button": {
+          "link": "#start-trial",
+          "show": true,
+          "text": "Unlock Your Solo Success"
+        },
+        "avatars": [
+          {
+            "avatarId": 32
+          },
+          {
+            "avatarId": 44
+          },
+          {
+            "avatarId": 65
+          },
+          {
+            "avatarId": 75
+          },
+          {
+            "avatarId": 12
+          },
+          {
+            "avatarId": 68
+          }
+        ],
+        "heading": "Fuel Your Solo Growth",
+        "description": "Access tailored marketing tools, expert insights, and proven strategies designed exclusively for solopreneurs ready to scale smarter, not harder.",
+        "foundersCount": 3582
+      }
+    }
+  ]
+}
